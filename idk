@@ -1,0 +1,24 @@
+assets/zones.json
+[
+  {
+    "id": 1,
+    "name": "Bay OS Chaos",
+    "url": "{HTML_URL}/bayos.html",
+    "cover": "{COVER_URL}/bayos.png",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Meme Runner",
+    "url": "{HTML_URL}/memerunner.html",
+    "cover": "{COVER_URL}/memerunner.png",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Deep Fried Pong",
+    "url": "{HTML_URL}/pong.html",
+    "cover": "{COVER_URL}/pong.png",
+    "featured": false
+  }
+]
